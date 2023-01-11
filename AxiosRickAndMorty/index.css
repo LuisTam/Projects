@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right:auto ;
+    width: 70%;
+}
+h1{
+    text-align: center;
+    margin: 50px;
+    color: limegreen;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif,;
+}
+p{
+    color: lightskyblue;
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration:underline
+}
