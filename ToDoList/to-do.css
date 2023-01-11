@@ -1,0 +1,32 @@
+body{
+    background-color: lightblue;
+}
+.box{
+    width: auto;
+    height: auto;
+    margin:15px;
+}
+.header{
+    text-align: center;
+    background-color: blue;
+    color:red;
+    padding: 15px;
+}
+#chore{
+    padding: 50px;
+    border: none;
+}
+#info{
+    padding: 50px;
+    border: none;
+    margin-left: 13px;
+}
+#submitBtn{
+    font-size: large;
+}
+.foot{
+    text-align: center;
+    color: red;
+    background-color: orange;
+    padding: 10px;
+}
